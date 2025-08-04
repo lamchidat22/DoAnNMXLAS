@@ -1,5 +1,3 @@
-Tuyệt vời, đây là nội dung README được viết lại theo ngôi thứ nhất, như một lời giới thiệu của chính bạn về dự án của mình.
-
 Đồ án: Nhận Diện và Đếm Người Qua Đường, Phân Biệt Giới Tính và Tuổi
 Giới thiệu
 Đây là đồ án của tôi cho môn học Nhập môn Ảnh số. Mục tiêu của tôi là xây dựng một hệ thống thị giác máy tính có khả năng nhận diện và đếm người, đồng thời phân biệt giới tính và tuổi của họ trong các video hoặc qua webcam.
